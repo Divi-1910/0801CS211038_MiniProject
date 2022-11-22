@@ -1,4 +1,4 @@
-Coding Standards and Guidelines
+Coding Standards And Guidelines
 
 Different modules specified in the design document are coded in the Coding phase according to the module specification. The main goal of the coding phase is to code from the design document prepared after the design phase through a high-level language and then to unit test this code.
 
